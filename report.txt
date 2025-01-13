@@ -1,0 +1,66 @@
+____________________Beginning of the report_____________________
+
+Total Number of words: 74145
+
+The letter 'p' has occured 6121 times.
+The letter 'r' has occured 20818 times.
+The letter 'o' has occured 25225 times.
+The letter 'j' has occured 504 times.
+The letter 'e' has occured 46043 times.
+The letter 'c' has occured 9243 times.
+The letter 't' has occured 30365 times.
+The letter ' ' has occured 74144 times.
+The letter 'g' has occured 5974 times.
+The letter 'u' has occured 10407 times.
+The letter 'n' has occured 24367 times.
+The letter 'b' has occured 5026 times.
+The letter ''' has occured 229 times.
+The letter 's' has occured 21155 times.
+The letter 'f' has occured 8731 times.
+The letter 'a' has occured 26743 times.
+The letter 'k' has occured 1755 times.
+The letter 'i' has occured 24613 times.
+The letter ',' has occured 5097 times.
+The letter 'y' has occured 7914 times.
+The letter 'm' has occured 10604 times.
+The letter 'w' has occured 7638 times.
+The letter 'l' has occured 12739 times.
+The letter '(' has occured 39 times.
+The letter 'd' has occured 16863 times.
+The letter ')' has occured 39 times.
+The letter 'h' has occured 19725 times.
+The letter '
+' has occured 7651 times.
+The letter 'v' has occured 3833 times.
+The letter '.' has occured 3124 times.
+The letter '-' has occured 445 times.
+The letter ':' has occured 68 times.
+The letter '1' has occured 92 times.
+The letter '7' has occured 23 times.
+The letter '2' has occured 24 times.
+The letter '0' has occured 21 times.
+The letter '8' has occured 20 times.
+The letter '[' has occured 4 times.
+The letter '#' has occured 1 times.
+The letter '4' has occured 17 times.
+The letter ']' has occured 4 times.
+The letter '*' has occured 28 times.
+The letter 'z' has occured 243 times.
+The letter '?' has occured 220 times.
+The letter ';' has occured 970 times.
+The letter 'x' has occured 677 times.
+The letter 'q' has occured 324 times.
+The letter '!' has occured 239 times.
+The letter '"' has occured 796 times.
+The letter '3' has occured 18 times.
+The letter '5' has occured 16 times.
+The letter '9' has occured 13 times.
+The letter '6' has occured 10 times.
+The letter '_' has occured 2 times.
+The letter '/' has occured 24 times.
+The letter '%' has occured 1 times.
+The letter '@' has occured 2 times.
+The letter '$' has occured 2 times.
+
+
+____________________End of the report___________________________
